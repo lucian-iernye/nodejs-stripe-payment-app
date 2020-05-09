@@ -1,1 +1,3 @@
-# nodejs-stripe-payment-app
+# NodeJs-Stripe-Payment-App
+
+## Demo
